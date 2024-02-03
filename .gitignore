@@ -1,0 +1,10 @@
+backup
+cleaner.ipynb
+ping_log.backup.json
+ping_log.csv
+ping_log.json
+ping_log2.csv
+speedtest_weather_ping_log.json
+
+.ipynb_checkpoints
+.idea
